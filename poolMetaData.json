@@ -2,5 +2,6 @@
 "name": "TheScenePool",
 "description": "TheScenePool - no fee pool",
 "ticker": "SCENE",
-"homepage": "https://thescenepool.com"
+"homepage": "https://thescenepool.com",
+"verify": "9141536bd4e97b8f9fa99d3fe8df2f0e"
 }
