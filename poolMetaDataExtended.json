@@ -1,0 +1,20 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/TheScenePool/data/blob/main/scene.ico?raw=true",
+        "url_png_logo": "https://github.com/TheScenePool/data/raw/main/scene.png?raw=true",
+        "location": "Londonderry, Northern Ireland",
+        "social": {
+            "twitter_handle": "SCENE_POOL_SPO",
+            "telegram_handle": "SCENEPool",
+            "discord_handle": "TheScenePool#2195",
+            "github_handle": "TheScenePool"
+        },
+        "about": {
+            "me": "Ryan",
+            "servers": "Hosted in Helsinki, 10gbps up/down, 100% carbon neutral energy.",
+        }
+      "my-pool-ids": {
+        "0": "bc8553a9b0b33cc6622e0ed0e22bac378f5c2b4601d940e0eddbe79d"
+    },
+    }
+}
