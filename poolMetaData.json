@@ -1,6 +1,7 @@
 {
 "name": "TheScenePool",
-"description": "TheScenePool - no fee pool",
+"description": "TheScenePool - Zero Fee Pool",
 "ticker": "SCENE",
-"homepage": "https://thescenepool.com"
+"homepage": "https://thescenepool.com",
+"extended": "https://tinyurl.com/2ryf687t"
 }
